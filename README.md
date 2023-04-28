@@ -11,5 +11,5 @@ chocolate_sales_dashboard.png: This is a PNG file that shows an overview of the 
 ## Dashboard Overview:
 The Chocolate Sales Dashboard provides an overview of the following metrics:
 
-Total Sales,Total Profit,Profit Percentage,Total customers,Total Seling Quantity.
+Total Sales,Total Profit,Profit Percentage,Total customers,Total Selling Quantity.
 The dashboard includes various visualizations such as charts, and graphs to provide insights into the sales data. You can use the filters and slicers to explore the data and customize the dashboard according to your needs.
