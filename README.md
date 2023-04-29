@@ -17,3 +17,8 @@ The dashboard includes various visualizations such as charts, and graphs to prov
 
 
 <img src="https://github.com/rahelsarif/CHOCOLATE-SALES-DASHBOARD/blob/main/Chocolate%20Sales%20Dashboard.PNG?raw=true" alt="Alt text" title="Optional title">
+
+## How to use
+To use the Power BI dashboard, download the "chocolate sales dashboard.pbix" file and open it in Power BI Desktop. You will need to have Power BI Desktop installed on your computer to open the file.
+
+Once the file is open, you can interact with the dashboard by selecting different options in the navigation bar and using the slicers to filter the data.
