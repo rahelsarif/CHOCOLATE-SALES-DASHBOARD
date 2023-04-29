@@ -13,3 +13,7 @@ The Chocolate Sales Dashboard provides an overview of the following metrics:
 
 Total Sales,Total Profit,Profit Percentage,Total customers,Total Selling Quantity.
 The dashboard includes various visualizations such as charts, and graphs to provide insights into the sales data. You can use the filters and slicers to explore the data and customize the dashboard according to your needs.
+
+
+
+<img src="https://github.com/rahelsarif/CHOCOLATE-SALES-DASHBOARD/blob/main/Chocolate%20Sales%20Dashboard.PNG?raw=true" alt="Alt text" title="Optional title">
